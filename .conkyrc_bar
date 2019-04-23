@@ -1,0 +1,32 @@
+conky.config = {
+--######################################################################################
+--##  Conky by http://gnome-look.org/content/show.php/conky+gray?content=155967     ####
+--##  Modified by    :   http://www.NoobsLab.com                                    ####
+--######################################################################################
+
+	double_buffer = true,
+	own_window_class = 'conky',
+	own_window = true,
+	own_window_type = 'conky',
+	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
+	own_window_argb_visual = true,
+	draw_borders = false,
+	draw_graph_borders = false,
+	border_margin = '0',
+	draw_shades = true,
+	gap_x = 0,
+	gap_y = 3,
+	alignment = 'bottom_middle',
+	update_interval = 1,
+	default_color = '#BFECEA',
+	own_window_colour = '#020522',
+	use_xft = true,
+	font = 'sans:size=7',
+	override_utf8_locale = true,
+	use_spacer = 'none',
+	minimum_width = 900, minimum_height = 12,
+};
+
+conky.text = [[
+${goto 5}Date: ${color D8052D}${font sans:size=7}${time %d/%m/%y}${color}${font}  Time: ${color D8052D}${font sans:size=7}${time %H:%M}${color}${font}  |  Kernel: ${color D8052D}${font sans:size=7}$kernel${color}${font}  Uptime: ${color D8052D}${font sans:size=7}${uptime_short}${color}${font}  |  Cpu: ${color D8052D}${font sans:size=7}${cpu}%${color}${font}  Ram: ${color D8052D}${font sans:size=7}${memperc}%${color}${font}  Swap: ${color D8052D}${font sans:size=7}${swapperc}%${color}${font}  |  ${color}${font}Home:${color D8052D}${font sans:size=7} ${fs_used_perc /}% ${fs_used /} / ${fs_size /}  ${color}${font}Vanack2: ${color D8052D}${font sans:size=7} ${fs_used_perc /media/Vanack2}% ${fs_used /media/Vanack2} / ${fs_size /media/Vanack2}${color}${font}  | ${color} ${if_existing /proc/net/route enp1s0}Network: ${color BFECEA}Up :${color} ${color D8052D}${upspeed enp1s0} ${color}  ${color BFECEA}Down :${color} ${color D8052D}${downspeed enp1s0} ${color} ${color BFECEA}Total :${color} ${color D8052D}${totaldown enp1s0}${color}
+]];
