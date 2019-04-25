@@ -34,7 +34,7 @@ conky.config = {
 };
 
 conky.text = [[
-${voffset 10}${color D8052D}${font Retro Computer:pixelsize=80}${time %I:%M:%S}${font}${voffset 10}${offset -275}${color 3FA8A4}${font Retro Computer:pixelsize=42}${time %d} ${voffset -15}${color 3FA8A4}${font Retro Computer:pixelsize=22}${time  %B} ${time %Y}${font}
+${voffset 10}${color a50b1a}${font Retro Computer:pixelsize=80}${time %I:%M:%S}${font}${voffset 10}${offset -275}${color BFECEA}${font Retro Computer:pixelsize=42}${time %d} ${voffset -15}${color BFECEA}${font Retro Computer:pixelsize=22}${time  %B} ${time %Y}${font}
 
 
 
