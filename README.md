@@ -11,3 +11,4 @@ pf_arma_five.ttf: font used in Trisquel Window Manager (to be put in ~/.fonts).
 
 Retro Computer.ttf: font used in RetroGotham Conky theme (to be put in ~/.fonts).
 
+.xscreensaver: xscreensaver configuration file (to be put in ~/).
