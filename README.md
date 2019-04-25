@@ -24,3 +24,5 @@ Palette.png: three colors i used in my Trisquel configuration.
 Rage-Cursor.tar.gz: cursor theme (thanks to DARKEYE90, original url: https://www.gnome-look.org/p/1280103/, to be extracted in ~/.icons).
 
 tint2rc: tint2 panel configuration file (to be put in ~/.config/tint2).
+
+Paper Icon Theme: open-source freedesktop.org icon theme project (https://snwh.org/paper).
