@@ -3,10 +3,6 @@ This is a repository for Trisquel customization stuff.
 
 [OpenBox]
 
-//------------------Wallpaper------------------//
-
-Trisquel Nebula.jpg: this is a custom 1080p wallpaper made by the Arch Nebula wallpaper, adding Trisquel logo (with some effects to make it fit the space atmosphere) and removing the lower "SD" letters.
-
 //------------------Bars------------------//
 
 .conkyrc_bar: lower Conky bar with some stats and system infos (to be put in ~/).
@@ -35,12 +31,20 @@ Rage-Cursor.tar.gz: cursor theme (thanks to DARKEYE90, original url: https://www
 
 Paper Icon Theme: open-source freedesktop.org icon theme project (https://snwh.org/paper).
 
+//------------------Hotkeys------------------//
+
+.xbindkeysrc: xbindkeys keyboard shortcuts file (to be put in ~/)
+
 [AwesomeVM]
 
 ....Work in progress....
 
 [General]
 
-.xscreensaver: xscreensaver configuration file (to be put in ~/).
+//------------------Wallpaper------------------//
 
-.xbindkeysrc: xbindkeys keyboard shortcuts file (to be put in ~/)
+Trisquel Nebula.jpg: this is a custom 1080p wallpaper made by the Arch Nebula wallpaper, adding Trisquel logo (with some effects to make it fit the space atmosphere) and removing the lower "SD" letters.
+
+//------------------Screensavers------------------//
+
+.xscreensaver: xscreensaver configuration file (to be put in ~/).
