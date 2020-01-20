@@ -39,6 +39,15 @@ Paper Icon Theme: open-source freedesktop.org icon theme project (https://snwh.o
 
 ....Work in progress....
 
+[GLXOSD]
+
+formatterfunction*: config files for sensors (FPS, GPU, CPU) (delete all after formatterfunction and put in /etc/GLXOSD/OSD/DataProviders/FrameDataProvider or /etc/GLXOSD/OSD/DataProviders/LibSensorsDataProvider or /etc/GLXOSD/OSD/DataProviders/NVMLDataProvider)
+
+glxosd_config.lua: configuration file for GLXOSD (see screenshot below) (to be put in /etc/GLXOSD/)
+
+![GLXOSD](GLXOSD.png "GLXOSD Minimal Configuration")
+
+
 [General]
 
 //------------------Wallpaper------------------//
