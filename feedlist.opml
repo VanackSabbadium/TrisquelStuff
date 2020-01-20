@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Free Games" text="Free Games" description="Free Games" type="folder" id="cobvhbl" sortColumn="time" expanded="true">
+      <outline title="FreeGamesOnSteam" text="FreeGamesOnSteam" description="FreeGamesOnSteam" type="atom" id="ijyqugf" sortColumn="time" xmlUrl="https://www.reddit.com/r/FreeGamesOnSteam/.rss" htmlUrl="https://www.reddit.com/r/FreeGamesOnSteam/" updateInterval="-1" collapsed="true"/>
+      <outline title="Random Acts Of Gaming" text="Random Acts Of Gaming" description="Random Acts Of Gaming" type="atom" id="dfsxose" sortColumn="time" xmlUrl="https://www.reddit.com/r/RandomActsOfGaming/.rss" htmlUrl="https://www.reddit.com/r/RandomActsOfGaming/" updateInterval="-1" collapsed="true"/>
+      <outline title="FreeGameFindings" text="FreeGameFindings" description="FreeGameFindings" type="atom" id="nnasvis" sortColumn="time" xmlUrl="https://www.reddit.com/r/FreeGameFindings/.rss" htmlUrl="https://www.reddit.com/r/FreeGameFindings/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Hentai" text="Hentai" description="Hentai" type="folder" id="oiaagol" sortColumn="time" viewMode="0" expanded="true">
+      <outline title="Hentai Gifs" text="Hentai Gifs" description="Hentai Gifs" type="atom" id="fnuhkgc" sortColumn="time" xmlUrl="https://www.reddit.com/r/HENTAI_GIF/.rss" htmlUrl="https://www.reddit.com/r/HENTAI_GIF/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Linux" text="Linux" description="Linux" type="folder" id="veappwn" sortColumn="time" viewMode="0" expanded="true">
+      <outline title="GNU/Linux Gaming" text="GNU/Linux Gaming" description="GNU/Linux Gaming" type="atom" id="isulipv" sortColumn="time" xmlUrl="https://www.reddit.com/r/linux_gaming/.rss" htmlUrl="https://www.reddit.com/r/linux_gaming/" updateInterval="-1" collapsed="true"/>
+      <outline title="Wine Gaming" text="Wine Gaming" description="Wine Gaming" type="atom" id="xgsgcap" sortColumn="time" xmlUrl="https://www.reddit.com/r/wine_gaming/.rss" htmlUrl="https://www.reddit.com/r/wine_gaming/" updateInterval="-1" collapsed="true"/>
+      <outline title="Linux Master Race" text="Linux Master Race" description="Linux Master Race" type="atom" id="eouumuf" sortColumn="time" xmlUrl="https://www.reddit.com/r/linuxmasterrace/.rss" htmlUrl="https://www.reddit.com/r/linuxmasterrace/" updateInterval="-1" collapsed="true"/>
+      <outline title="Steam Play" text="Steam Play" description="Steam Play" type="atom" id="kpimhol" sortColumn="time" xmlUrl="https://www.reddit.com/r/SteamPlay/.rss" htmlUrl="https://www.reddit.com/r/SteamPlay/" updateInterval="-1" collapsed="true"/>
+      <outline title="Unix Porn" text="Unix Porn" description="Unix Porn" type="atom" id="kuywavx" sortColumn="time" xmlUrl="https://www.reddit.com/r/unixporn/.rss" htmlUrl="https://www.reddit.com/r/unixporn/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Music" text="Music" description="Music" type="folder" id="rpncouw" sortColumn="time" expanded="true">
+      <outline title="Black Sabbath" text="Black Sabbath" description="Black Sabbath" type="atom" id="yegnopw" sortColumn="time" xmlUrl="https://www.reddit.com/r/blacksabbath/.rss" htmlUrl="https://www.reddit.com/r/blacksabbath/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Porn" text="Porn" description="Porn" type="folder" id="ampmdat" sortColumn="time" expanded="true">
+      <outline title="Boobs" text="Boobs" description="Boobs" type="atom" id="mhluhcg" sortColumn="time" xmlUrl="https://www.reddit.com/r/boobs/.rss" htmlUrl="https://www.reddit.com/r/boobs/" updateInterval="-1" collapsed="true"/>
+      <outline title="Big Boobs Gonewild" text="Big Boobs Gonewild" description="Big Boobs Gonewild" type="atom" id="caxxphp" sortColumn="time" xmlUrl="https://www.reddit.com/r/BigboobsGW/.rss" htmlUrl="https://www.reddit.com/r/BigboobsGW/" updateInterval="-1" collapsed="true"/>
+      <outline title="BlowJob" text="BlowJob" description="BlowJob" type="atom" id="cqvymjv" sortColumn="time" xmlUrl="https://www.reddit.com/r/BlowJob/.rss" htmlUrl="https://www.reddit.com/r/BlowJob/" updateInterval="-1" collapsed="true"/>
+      <outline title="Blowjobs" text="Blowjobs" description="Blowjobs" type="atom" id="iiptsbf" sortColumn="time" xmlUrl="https://www.reddit.com/r/Blowjobs/.rss" htmlUrl="https://www.reddit.com/r/Blowjobs/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Technology" text="Technology" description="Technology" type="folder" id="weaimen" sortColumn="time" expanded="true">
+      <outline title="Piracy" text="Piracy" description="Piracy" type="atom" id="cnbskfp" sortColumn="time" xmlUrl="https://www.reddit.com/r/Piracy/.rss" htmlUrl="https://www.reddit.com/r/Piracy/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Trisquel GNU/Linux" text="Trisquel GNU/Linux" description="Trisquel GNU/Linux" type="folder" id="xxvirkb" sortColumn="time" expanded="true">
+      <outline title="News" text="News" description="News" type="rss" id="wwqypun" sortColumn="time" xmlUrl="http://trisquel.info/en/node/feed" htmlUrl="https://trisquel.info" updateInterval="-1" collapsed="true"/>
+      <outline title="Release announcements" text="Release announcements" description="Release announcements" type="rss" id="ktgtsfw" sortColumn="time" xmlUrl="http://trisquel.info/en/taxonomy/term/700/0/feed" htmlUrl="https://trisquel.info/en/taxonomy/term/700/0" updateInterval="-1" collapsed="true"/>
+      <outline title="Forum" text="Forum" description="Forum" type="rss" id="tqbkrcw" sortColumn="time" xmlUrl="http://trisquel.info/en/taxonomy/term/50/0/feed" htmlUrl="https://trisquel.info/en/taxonomy/term/50/0" updateInterval="-1" collapsed="true"/>
+      <outline title="Trisquel at Reddit" text="Trisquel at Reddit" description="Trisquel at Reddit" type="atom" id="rrxlxjr" sortColumn="time" xmlUrl="http://www.reddit.com/r/trisquel/.rss" htmlUrl="https://www.reddit.com/r/trisquel/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Videogames" text="Videogames" description="Videogames" type="folder" id="cduuewe" sortColumn="time" expanded="true">
+      <outline title="Monkey Island" text="Monkey Island" description="Monkey Island" type="atom" id="hewrxxp" sortColumn="time" xmlUrl="https://www.reddit.com/r/MonkeyIsland/.rss" htmlUrl="https://www.reddit.com/r/MonkeyIsland/" updateInterval="-1" collapsed="true"/>
+      <outline title="Patient Gamers" text="Patient Gamers" description="Patient Gamers" type="atom" id="rqxeolv" sortColumn="time" xmlUrl="https://www.reddit.com/r/patientgamers/.rss" htmlUrl="https://www.reddit.com/r/patientgamers/" updateInterval="-1" collapsed="true"/>
+      <outline title="Soul Hunters" text="Soul Hunters" description="Soul Hunters" type="atom" id="hpeibol" sortColumn="time" xmlUrl="https://www.reddit.com/r/SoulHuntersGame/.rss" htmlUrl="https://www.reddit.com/r/SoulHuntersGame/" updateInterval="-1" collapsed="true"/>
+    </outline>
+    <outline title="Important" text="Important" description="Important" type="vfolder" id="pbtxgyn" sortColumn="time" matchType="any" collapsed="true">
+      <outline type="rule" text="Flag status" rule="flagged" value="" additive="true"/>
+    </outline>
+    <outline title="Unread" text="Unread" description="Unread" type="vfolder" id="uwbsumw" sortColumn="time" matchType="any" collapsed="true">
+      <outline type="rule" text="Read status" rule="unread" value="" additive="true"/>
+    </outline>
+    <outline title="Gmail - Inbox for vanacksabbadium@gmail.com" text="Gmail - Inbox for vanacksabbadium@gmail.com" description="Gmail - Inbox for vanacksabbadium@gmail.com" type="atom" id="tbtksmq" sortColumn="time" viewMode="0" xmlUrl="https://mail.google.com/mail/u/0/feed/atom" htmlUrl="https://mail.google.com/mail/u/0" updateInterval="-1" collapsed="true"/>
+  </body>
+</opml>
