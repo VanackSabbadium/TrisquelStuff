@@ -5,17 +5,17 @@ This is a repository for Trisquel customization stuff.
 
 ###### //------------------Bars------------------//
 
-- .conkyrc_bar: lower Conky bar with some stats and system infos (to be put in ~/).
+- **.conkyrc_bar**: lower Conky bar with some stats and system infos (*to be put in ~/*).
 
-- tint2rc: tint2 panel configuration file (to be put in ~/.config/tint2).
+- **tint2rc**: tint2 panel configuration file (*to be put in ~/.config/tint2*).
 
 ###### //------------------Fonts------------------//
 
-RetroGotham: minimalistic Conky theme with a clock and a calendar (to be put in ~/).
+- **RetroGotham**: minimalistic Conky theme with a clock and a calendar (to be put in ~/).
 
-pf_arma_five.ttf: font used in Trisquel Window Manager (to be put in ~/.fonts).
+- **pf_arma_five.ttf**: font used in Trisquel Window Manager (to be put in ~/.fonts).
 
-Retro Computer.ttf: font used in RetroGotham Conky theme (to be put in ~/.fonts).
+- **Retro Computer.ttf**: font used in RetroGotham Conky theme (to be put in ~/.fonts).
 
 Nitti-Normal.ttf: font used in xterminal (to be put in ~/.fonts).
 
