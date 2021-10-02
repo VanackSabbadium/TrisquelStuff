@@ -1,7 +1,7 @@
 # TrisquelStuff
 This is a repository for Trisquel customization stuff.
 
-## [OpenBox]
+> ## [OpenBox]
 
 ###### //------------------Bars------------------//
 
@@ -35,7 +35,7 @@ Paper Icon Theme: open-source freedesktop.org icon theme project (https://snwh.o
 
 .xbindkeysrc: xbindkeys keyboard shortcuts file (to be put in ~/)
 
-## [AwesomeVM]
+> ## [AwesomeVM]
 
 ###### //------------------Scripts------------------//
 
@@ -69,7 +69,7 @@ compton.conf: Compton configuration (put into ~/.config)
 
 hrir.wav: WAV sample file for 7.1 surround sound configuration (put into ~/.local/share)
 
-## [GLXOSD]
+> ## [GLXOSD]
 
 formatterfunction*: config files for sensors (FPS, GPU, CPU) (delete all after formatterfunction and put in /etc/GLXOSD/OSD/DataProviders/FrameDataProvider or /etc/GLXOSD/OSD/DataProviders/LibSensorsDataProvider or /etc/GLXOSD/OSD/DataProviders/NVMLDataProvider)
 
@@ -78,7 +78,7 @@ glxosd_config.lua: configuration file for GLXOSD (see screenshot below) (to be p
 ![GLXOSD](GLXOSD.png "GLXOSD Minimal Configuration")
 
 
-## [General]
+> ## [General]
 
 ###### //------------------Wallpaper------------------//
 
