@@ -1,0 +1,37 @@
+#!/bin/bash
+# Bash Menu Script Example
+clear
+PS3="Scegli l'argomento: "
+echo "====== Benvenuto nella tua Sala Giochi! ======"
+echo " "
+echo "------ Ecco il numero di giochi a tua disposizione! ------"
+echo " "
+echo "Totale: 35 giochi"
+echo " "
+options=("Anno" "Genere" "Piattaforma" "Esci")
+select opt in "${options[@]}"
+do
+        case $opt in
+            "Anno")
+                echo "Hai scelto l'anno"
+                /usr/bin/playyear
+                break
+                ;;
+            "Genere")
+                echo "Hai scelto il genere"
+                /usr/bin/playgenre
+                break
+                ;;
+            "Piattaforma")
+                echo "Hai scelto la piattaforma"
+                /usr/bin/playdevice
+                break
+                ;;
+            "Esci")
+                break
+                ;;
+            *) echo "invalid option $REPLY";;
+        esac
+done
+
+
