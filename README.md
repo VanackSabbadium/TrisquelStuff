@@ -37,7 +37,37 @@ Paper Icon Theme: open-source freedesktop.org icon theme project (https://snwh.o
 
 [AwesomeVM]
 
-....Work in progress....
+//------------------Scripts------------------//
+
+christmas.sh: Christmas tree script for terminal, put everywhere (~/Script)
+
+cpufreq-set-all: this script sets different CPU frequencies, put everywhere (~/Script)
+
+freemem: this script frees RAM and helps system getting smoother, put everywhere (~/Script)
+
+playgames: main script for selecting a game and running it, needs other scripts, put into /usr/bin
+
+terminal_tree.py: another Christmas tree script, this time in Python, put everywhere (~/Script)
+
+//-------------------Game configurations--------------------//
+
+Config.fs-uae: FS-UAE Amiga emulator configuration (put into ~/.local/share/lutris/runners/fs-uae)
+
+dgenrc: DGen SEGA Genesis emulator configuration (put into ~/.dgen)
+
+dosbox-ECE.conf: DOSBox configuration (put into ~/.dosbox)
+
+retroarch.cfg: Retroarch multisystem emulator configuration (put into ~/.local/share/lutris/runners/retroarch)
+
+//-------------------Generic configurations--------------------//
+
+Vanack.json: ArchiSteamFarm profile configuration (put into config folder into ArchiSteamFarm main directory)
+
+bookmarks.html: Firefox/Tor Browser bookmarks (import from browser)
+
+compton.conf: Compton configuration (put into ~/.config)
+
+hrir.wav: WAV sample file for 7.1 surround sound configuration (put into ~/.local/share)
 
 [GLXOSD]
 
